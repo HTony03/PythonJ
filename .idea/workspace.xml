@@ -1,27 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="364aa66a-519f-40b6-9393-3fe9c267e1f7" name="变更" comment="" />
+    <list default="true" id="364aa66a-519f-40b6-9393-3fe9c267e1f7" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BOOL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BYTE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/CLASS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DICT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DataTypeBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/EXCEPTION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FLOAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FUNCTION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/INT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/ITERATOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/STR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/TUPLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOs/InputPipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOs/OutputPipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOs/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/BuiltIns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/DEF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/OperatorBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sugar/SugarBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sugar/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/ByLineInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Formatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Namespace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/VirtualMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2RNcjrZwsKoIVl7GJAwlFqwow0Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -32,5 +105,16 @@
       <updated>1687094120509</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
