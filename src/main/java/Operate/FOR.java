@@ -1,4 +1,4 @@
 package Operate;
 
-public class FOR implements OperatorBase{
+public class FOR extends OperatorBase{
 }

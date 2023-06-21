@@ -1,4 +1,4 @@
 package IOs;
 
-public interface InputPipe {
+public abstract class InputPipe {
 }

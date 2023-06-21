@@ -1,4 +1,4 @@
 package ObjectOriented;
 
-public interface BuiltIns extends PyFunction{
+public abstract class BuiltIns extends PyFunction{
 }

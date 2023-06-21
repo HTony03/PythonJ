@@ -1,13 +1,13 @@
 package Operate;
 
-public class TRYEXCEPT implements OperatorBase
+public class TRYEXCEPT extends OperatorBase
 {
 }
 
-class TRY implements OperatorBase
+class TRY extends OperatorBase
 {
 }
 
-class EXCEPT implements OperatorBase
+class EXCEPT extends OperatorBase
 {
 }

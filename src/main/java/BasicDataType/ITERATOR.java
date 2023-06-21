@@ -1,4 +1,8 @@
 package BasicDataType;
 
-public class ITERATOR implements DataTypeBase{
+public class ITERATOR extends DataTypeBase{
+    public ITERATOR(){
+
+        this.type = "iterator";
+    }
 }

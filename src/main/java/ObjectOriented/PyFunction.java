@@ -1,4 +1,4 @@
 package ObjectOriented;
 
-public interface PyFunction extends PyClass{
+public abstract class PyFunction extends PyClass{
 }

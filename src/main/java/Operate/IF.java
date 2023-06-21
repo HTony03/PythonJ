@@ -1,4 +1,4 @@
 package Operate;
 
-public class IF implements OperatorBase{
+public class IF extends OperatorBase{
 }

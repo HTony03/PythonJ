@@ -1,4 +1,4 @@
 package ObjectOriented;
 
-public interface PyClass {
+public abstract class PyClass {
 }

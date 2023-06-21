@@ -1,5 +1,8 @@
 package BasicDataType;
 
-public class TUPLE implements DataTypeBase
+public class TUPLE extends DataTypeBase
 {
+    public TUPLE(){
+        this.type = "tuple";
+    }
 }

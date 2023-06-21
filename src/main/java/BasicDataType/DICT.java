@@ -1,5 +1,8 @@
 package BasicDataType;
 
-public class DICT implements DataTypeBase
+public class DICT extends DataTypeBase implements Iterable
 {
+    public DICT(){
+        this.type = "dict";
+    }
 }

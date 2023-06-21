@@ -1,4 +1,4 @@
 package Sugar;
 
-public interface SugarBase {
+public abstract class SugarBase {
 }

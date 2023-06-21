@@ -4,47 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="364aa66a-519f-40b6-9393-3fe9c267e1f7" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BOOL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BYTE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/CLASS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DICT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DataTypeBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/EXCEPTION.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FLOAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FUNCTION.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/INT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/ITERATOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/STR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/TUPLE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IOs/InputPipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IOs/OutputPipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IOs/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/BuiltIns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/DEF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/OperatorBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sugar/SugarBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sugar/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/ByLineInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Formatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Namespace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/VirtualMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/package-info.java" afterDir="false" />
+    <list default="true" id="364aa66a-519f-40b6-9393-3fe9c267e1f7" name="变更" comment="BasicWorks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/INSTANCE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/Iterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/SET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/GeneralCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/CLASS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/DEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/PASS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/RETURN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/IDcontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/BOOL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BOOL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/BYTE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BYTE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/CLASS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/CLASS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/DICT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DICT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/DataTypeBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DataTypeBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/EXCEPTION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/EXCEPTION.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/FLOAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FLOAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/FUNCTION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FUNCTION.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/INT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/INT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/ITERATOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/ITERATOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/STR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/STR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/TUPLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/TUPLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculate/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculate/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IOs/InputPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IOs/InputPipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IOs/OutputPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IOs/OutputPipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectOriented/BuiltIns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/BuiltIns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/DEF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/DEF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/IF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/OperatorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/OperatorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sugar/SugarBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sugar/SugarBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VirtualMachine/ByLineInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/ByLineInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VirtualMachine/Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VirtualMachine/Namespace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Namespace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +61,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -95,6 +103,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <module name="PythonJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Example" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -104,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1687094120509</updated>
     </task>
+    <task id="LOCAL-00001" summary="BasicWorks">
+      <created>1687101798663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687101798663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +146,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BasicWorks" />
+    <option name="LAST_COMMIT_MESSAGE" value="BasicWorks" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="VirtualMachine.Namespace" memberName="UUID" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

@@ -1,7 +1,7 @@
 package Operate;
 
-public class WHILE implements OperatorBase{
+public class WHILE extends OperatorBase{
 }
 
-class DO implements OperatorBase{
+class DO extends OperatorBase{
 }
