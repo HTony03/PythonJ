@@ -5,53 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="364aa66a-519f-40b6-9393-3fe9c267e1f7" name="变更" comment="BasicWorks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/INSTANCE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/Iterable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/SET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/BasicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculate/GeneralCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/CLASS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/DEL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/PASS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/RETURN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/IDcontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/RAISE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/RANGE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/BOOL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BOOL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/BYTE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/BYTE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/CLASS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/CLASS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/DICT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DICT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/DataTypeBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/DataTypeBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/EXCEPTION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/EXCEPTION.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/FLOAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FLOAT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/FUNCTION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/FUNCTION.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/INT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/INT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/ITERATOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/ITERATOR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/STR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/STR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/TUPLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/TUPLE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculate/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculate/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IOs/InputPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IOs/InputPipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IOs/OutputPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IOs/OutputPipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectOriented/BuiltIns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/BuiltIns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/PyFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/DEF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/DEF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Operate/IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/IF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/OperatorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/OperatorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/RETURN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/RETURN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sugar/SugarBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sugar/SugarBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VirtualMachine/ByLineInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/ByLineInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VirtualMachine/Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Formatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VirtualMachine/Namespace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VirtualMachine/Namespace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/package-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,17 +55,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example" />
@@ -125,6 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687094120509</updated>
+      <workItem from="1688881418488" duration="2287000" />
     </task>
     <task id="LOCAL-00001" summary="BasicWorks">
       <created>1687101798663</created>
@@ -135,6 +106,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

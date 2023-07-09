@@ -3,7 +3,13 @@ package BasicDataType;
 import java.util.ArrayList;
 
 public class LIST extends DataTypeBase implements Iterable{
-
+    //list:
+    //序列，编号从0开始
+    //例：
+    //[1,2,3]
+    //对应编号:
+    // 0 1 2
+    //for中从头开始取
     private ArrayList<DataTypeBase> list;
     public LIST(){
         this.type = "list";
