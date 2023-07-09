@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="364aa66a-519f-40b6-9393-3fe9c267e1f7" name="变更" comment="BasicWorks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/RAISE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operate/RANGE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicDataType/LIST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/FOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/IF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/RETURN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/RETURN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/TRYEXCEPT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/WHILE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operate/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operate/package-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="364aa66a-519f-40b6-9393-3fe9c267e1f7" name="变更" comment="BasicWorks&#10;添加注释，部分可能需要的import" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687094120509</updated>
-      <workItem from="1688881418488" duration="2287000" />
+      <workItem from="1688881418488" duration="2633000" />
     </task>
     <task id="LOCAL-00001" summary="BasicWorks">
       <created>1687101798663</created>
@@ -104,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687101798663</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BasicWorks&#10;添加注释，部分可能需要的import">
+      <created>1688883747968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688883747968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BasicWorks" />
-    <option name="LAST_COMMIT_MESSAGE" value="BasicWorks" />
+    <MESSAGE value="BasicWorks&#10;添加注释，部分可能需要的import" />
+    <option name="LAST_COMMIT_MESSAGE" value="BasicWorks&#10;添加注释，部分可能需要的import" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
